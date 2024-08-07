@@ -7,6 +7,6 @@ Finally, it determines the stability of the dynamical system near all the found 
 Output (of Function 3) - 
 
 The Equilibrium point(s):  
-V(0.2928932188, -0.2071067812) =  0.0857864376190247  
-V(1.7071067812, 1.2071067812) =  2.91421356241902  
+V(0.2928932188, -0.2071067812) =  3.9857660327420693e-07  
+V(1.7071067812, 1.2071067812) =  612.5312496593465  
 V(0.0, 0.0) =  0.0  
