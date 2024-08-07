@@ -4,9 +4,9 @@ This project focuses on finding the equilibrium points of a system of differenti
 Further, it plots a given (energy function for the damped harmonic oscillator case) function to help determine if it is a strict Lyapunov function.  
 Finally, it determines the stability of the dynamical system near all the found equilibrium points.  
 
-Output (of Function 3) - 
+Output (of Function 3 when a=5, m=7, n=6) - 
 
 The Equilibrium point(s):  
-V(0.2928932188, -0.2071067812) =  3.9857660327420693e-07  
-V(1.7071067812, 1.2071067812) =  612.5312496593465  
+V(0.2928932188, -0.2071067812) =  6.533126408541641e-08  
+V(1.7071067812, 1.2071067812) =  1832.9008790442522  
 V(0.0, 0.0) =  0.0  
